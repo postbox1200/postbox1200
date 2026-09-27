@@ -8,7 +8,7 @@ I build scalable web applications, REST APIs, AI-powered applications, and devel
   <a href="https://github.com/postbox1200">
     <img src="https://img.shields.io/badge/GitHub-postbox1200-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/sailesh-babu-325063251/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
