@@ -1,164 +1,254 @@
-👋 Hi, I'm Sailesh Babu C
+<div align="center">
 
-💻 Java Full Stack Developer | Software Engineer
+# 👋 Hi, I'm **Sailesh Babu C**
 
-I build scalable web applications, REST APIs, AI-powered applications, and developer tools.
+### `Java Full Stack Developer` · `Software Engineer` · `AI Enthusiast`
 
-<p align="left">
+<img src="./assets/hero.gif" width="100%" alt="Animated developer banner">
+
+<p>
   <a href="https://github.com/postbox1200">
     <img src="https://img.shields.io/badge/GitHub-postbox1200-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/sailesh-babu-325063251/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-🚀 About Me
+</div>
 
-🎓 B.Tech in Information Technology
+---
 
-☕ Focused on Java & Spring Boot
+## 🚀 About Me
 
-🌐 Building applications with React, Next.js & TypeScript
+<table>
+<tr>
+<td width="58%" valign="top">
 
-🗄️ Working with PostgreSQL, MySQL & SQL
+### 👨‍💻 What I Do
 
-🤖 Exploring AI, LLMs, RAG, Agents & MCP
+- ☕ Build backend applications with **Java & Spring Boot**
+- 🌐 Create full-stack applications with **React, Next.js & TypeScript**
+- 🗄️ Design and work with **PostgreSQL, MySQL & SQL**
+- 🤖 Explore **LLMs, RAG, AI Agents & MCP**
+- ☁️ Learn **Docker, cloud infrastructure & production systems**
+- 🧩 Interested in building useful developer tools and SaaS products
+- 📍 Based in **Chennai, India**
 
-☁️ Interested in Cloud, DevOps & scalable systems
+### 🎯 Current Focus
 
-📍 Chennai, India
+`Java` → `Spring Boot` → `System Design` → `Cloud` → `AI`
 
-🛠️ Tech Stack
+</td>
 
-Backend
+<td width="42%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=postbox1200&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="100%" alt="GitHub statistics">
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack & Ecosystem
+
+### 💻 Languages & Frontend
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
-<img src="https://img.shields.io/badge/JPA-000000?style=flat-square">
-<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square">
+<img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,html,css,tailwind" alt="Languages and frontend technologies">
 </p>
 
-Frontend
+### ⚙️ Backend, Database & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,hibernate,postgres,mysql,docker,git,github" alt="Backend database and DevOps technologies">
 </p>
 
-Database & Tools
+### 🤖 AI & Developer Tools
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://skillicons.dev/icons?i=python,openai,vercel" alt="AI and developer tools">
 </p>
 
-AI & Developer Tools
+---
 
-<p>
-<img src="https://img.shields.io/badge/AI_SDK-000000?style=flat-square">
-<img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square">
-<img src="https://img.shields.io/badge/LLM-FF6F00?style=flat-square">
-<img src="https://img.shields.io/badge/MCP-2563EB?style=flat-square">
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
-</p>
+# 🚀 Featured Projects
 
-🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🌾 Farmers' E-Market
+### 🌾 Farmers' E-Market
 
-A digital marketplace connecting farmers and local buyers.
+A digital bridge between farmers and local markets.
 
-Features
+**Features**
+- 📊 Product price updates
+- 🔎 Product search & filtering
+- 🤝 Best buyer identification
+- 💬 Chat
+- 📦 Order processing
 
-📊 Real-time product prices
+**Stack:** React · TypeScript · Supabase · PostgreSQL
 
-🔎 Product search & filtering
+</td>
 
-🤝 Best buyer identification
+<td width="50%" valign="top">
 
-💬 Chat
+### 🤖 Infra0
 
-📦 Order processing
+An AI infrastructure copilot that turns natural-language requirements into Terraform infrastructure.
 
-Tech: React • TypeScript • Supabase • PostgreSQL
+**Focus**
+- ☁️ Cloud infrastructure
+- 🧠 AI-assisted generation
+- 📝 Terraform
+- 🛠️ Browser-based developer workflow
 
-🤖 Infra0 — AI Infrastructure Copilot
+**Stack:** Next.js · TypeScript · AI SDK · Terraform
 
-An AI-powered developer tool that converts natural-language requirements into Terraform infrastructure code.
+</td>
+</tr>
 
-Tech: Next.js • TypeScript • AI SDK • Terraform • Cloud
+<tr>
+<td width="50%" valign="top">
 
-📅 Meeting Scheduler
+### 📅 Meeting Scheduler
 
-A full-stack scheduling platform for managing users, rooms, resources and meetings.
+A full-stack scheduling platform with authentication, resource management and smart scheduling.
 
-Tech: Next.js • PostgreSQL • Drizzle ORM • NextAuth • OAuth
+**Stack:** Next.js · PostgreSQL · Drizzle ORM · OAuth
 
-🧠 AI Developer Assistant
+</td>
 
-An AI chatbot exploring modern AI application architecture.
+<td width="50%" valign="top">
 
-Concepts
+### 🧠 AI Developer Assistant
 
-RAG
+An AI application exploring modern LLM architecture.
 
-AI Agents
+**Exploring**
+- RAG
+- AI Agents
+- MCP
+- Streaming
+- Database-backed conversations
 
-MCP
+**Stack:** Next.js · AI SDK · Drizzle · PostgreSQL
 
-Streaming responses
+</td>
+</tr>
+</table>
 
-Database-backed conversations
+---
 
-Tech: Next.js • AI SDK • Drizzle • PostgreSQL
+# 📊 GitHub Insights
 
-📈 GitHub Stats
+<div align="center">
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=postbox1200&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=postbox1200&layout=compact&theme=transparent&hide_border=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=postbox1200&layout=compact&hide_border=true&theme=transparent" height="170" alt="Most used languages">
 
-🧩 What I'm Currently Learning
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=postbox1200&hide_border=true&theme=transparent" height="170" alt="GitHub streak">
 
-Java & Spring Boot
-        ↓
-REST APIs & System Design
-        ↓
-PostgreSQL & Database Design
-        ↓
-Docker & Cloud
-        ↓
-AI / LLM / RAG / Agents
-        ↓
-Production-Ready Applications
+</div>
 
-🎯 Career Focus
+<br>
 
-I'm looking for opportunities where I can work on:
+<div align="center">
 
-Java • Spring Boot • Backend Engineering • Full Stack Development • AI Applications • Cloud
+<img src="https://github-profile-trophy.vercel.app/?username=postbox1200&theme=flat&no-frame=true&no-bg=true&margin-w=10" width="90%" alt="GitHub trophies">
 
-📫 Let's Connect
+</div>
 
-<p>
+---
+
+# 🧠 My Developer Journey
+
+```text
+             ┌──────────────────┐
+             │      JAVA ☕      │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │  SPRING BOOT ⚙️  │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │  FULL STACK 🌐   │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │   CLOUD ☁️       │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │   AI / LLM 🤖    │
+             └────────┬─────────┘
+                      ↓
+             ┌──────────────────┐
+             │ PRODUCTION 🚀    │
+             └──────────────────┘
+```
+
+---
+
+# ⚡ Currently Learning
+
+<table>
+<tr>
+<td>☕ Java & Spring Boot</td>
+<td>🏗️ System Design</td>
+</tr>
+<tr>
+<td>🗄️ PostgreSQL & Database Design</td>
+<td>🐳 Docker & Cloud</td>
+</tr>
+<tr>
+<td>🤖 LLM / RAG / Agents</td>
+<td>🔌 MCP & AI Tooling</td>
+</tr>
+</table>
+
+---
+
+# 📈 Coding Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=postbox1200&theme=github-compact&hide_border=true" width="100%" alt="GitHub activity graph">
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
 <a href="https://github.com/postbox1200">
-<img src="https://img.shields.io/badge/GitHub-postbox1200-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-POSTBOX1200-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-</p>
 
-<p align="center">
-  <b>⚡ Building. Learning. Improving.</b>
-</p>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-PROFILE-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<br><br>
+
+### ✨ Build → Learn → Ship 🚀
+
+<img src="https://komarev.com/ghpvc/?username=postbox1200&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting my profile! 👋**
+
+</div>
